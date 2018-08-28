@@ -2,3 +2,4 @@
 
 ifconfig
 date
+echo 'hello world'
